@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:dio/dio.dart';
 
-import '../models/userManager.dart';
+import '../models/user_manager.dart';
 
 class ApiClient {
   final String baseUrl;

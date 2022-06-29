@@ -4,7 +4,7 @@ import 'package:get/route_manager.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../../styles/styles.dart';
-import '../global_controller/controller_widget_bottom_navigation_bar.dart';
+import '../global/controllers/controller_widget_bottom_navigation_bar.dart';
 
 class NavigatorBar extends GetView<WidgetBottomNavigationBarController> {
   const NavigatorBar({
