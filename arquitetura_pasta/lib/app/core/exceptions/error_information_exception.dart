@@ -1,0 +1,1 @@
+class ErrorInformationException implements Exception {}
